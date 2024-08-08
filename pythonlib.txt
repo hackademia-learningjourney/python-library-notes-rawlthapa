@@ -1,0 +1,9 @@
+----Test----
+Panda: For data manipulation and analysis 
+NumPy: For numerical computation
+Matplotlib: For creating visualization
+Tensorflow: For machine learning
+Keras: High level neural networks for quick prototyping and experiment
+Scikit learn: For data mining and analysis
+Pytorch: Computational graphs and more flexibility
+
